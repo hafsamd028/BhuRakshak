@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./records-iHTx2BvD.js";import{t as n}from"./index-BjcdnIAT.js";var r=e();function i(){let{recordId:e}=n.useParams();return(0,r.jsx)(t,{recordId:e})}export{i as component};

@@ -1,0 +1,1 @@
+var e=`/assets/sample-land-record-ylqhhsS2.jpg`;export{e as t};

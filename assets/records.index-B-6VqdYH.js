@@ -1,0 +1,1 @@
+import{n as e}from"./records-iHTx2BvD.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./upload-review-Cj3jXT19.js";var t=e;export{t as component};

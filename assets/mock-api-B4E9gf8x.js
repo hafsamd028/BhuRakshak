@@ -1,0 +1,1 @@
+import{s as e}from"./button-Bhe-Gaxf.js";var t=e(`loader-circle`,[[`path`,{d:`M21 12a9 9 0 1 1-6.219-8.56`,key:`13zald`}]]),n=(e=450)=>new Promise(t=>setTimeout(t,e));async function r(e,t){return await n(700),{name:e.split(`@`)[0].replace(`.`,` `),role:t}}async function i(){return await n(900),{recordId:`BR-2026-1043`,status:`processing`}}export{i as n,t as r,r as t};
